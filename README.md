@@ -1,13 +1,14 @@
 ## 部分截图展示 
-<img width="518" height="1094" alt="屏幕截图 2026-06-05 105715" src="https://github.com/user-attachments/assets/27810475-3569-4659-ad4f-42fa7b4c7ecc" />
-<img width="518" height="1094" alt="屏幕截图 2026-06-05 105715" src="https://github.com/user-attachments/assets/c7ca85a9-aa71-44ba-af79-709eed4a8196" />
-<img width="517" height="1092" alt="屏幕截图 2026-06-05 105653" src="https://github.com/user-attachments/assets/631c0407-9b60-47d1-bb73-12d8f0799592" />
-<img width="517" height="1095" alt="屏幕截图 2026-06-05 105638" src="https://github.com/user-attachments/assets/587e22ff-6319-4338-bfcd-b0e319eb6999" />
+<img width="480"  alt="屏幕截图 2026-06-05 105632" src="https://github.com/user-attachments/assets/953d094d-c7bb-413e-b935-52250752d21b" />
+<img width="480"  alt="屏幕截图 2026-06-05 105715" src="https://github.com/user-attachments/assets/c7ca85a9-aa71-44ba-af79-709eed4a8196" />
+<img width="480"  alt="屏幕截图 2026-06-05 105653" src="https://github.com/user-attachments/assets/631c0407-9b60-47d1-bb73-12d8f0799592" />
+<img width="480"  alt="屏幕截图 2026-06-05 105638" src="https://github.com/user-attachments/assets/587e22ff-6319-4338-bfcd-b0e319eb6999" />
 
+>更多内容请您下载观看
 
-## 项目简介
+## HarmonyCloudMusic-AI
 
-**HarmonyCloudMusic-AI** 是一款运行在 HarmonyOS 上的音乐 App 练手项目，在经典「云音乐」界面基础上，内置 **云音乐 AI** 助手，让听歌、搜歌、聊音乐更自然。
+是一款运行在 HarmonyOS 上的音乐 App 练手项目，在经典「云音乐」界面基础上，内置 **云音乐 AI** 助手，让听歌、搜歌、聊音乐更自然。
 
 主要能力：
 
@@ -18,22 +19,6 @@
 - **启动页**：Banner 闪屏 + 倒计时跳过
 
 技术栈：**HarmonyOS NEXT · ArkTS · ArkUI · AVPlayer · HTTP · 语音识别 / TTS**
-
----
-
-## 界面预览
-
-> 将本地截图放入 `docs/screenshots/` 后即可在 GitHub 正常显示（见下方「截图说明」）。
-
-| 启动页 | 推荐首页 | AI 助手 |
-|:---:|:---:|:---:|
-| ![启动页](docs/screenshots/01-splash.png) | ![推荐首页](docs/screenshots/02-recommend-home.png) | ![AI 助手](docs/screenshots/06-ai-chat.png) |
-
-| 发现 · 猜你喜欢 | 播放器 | 语音搜索 |
-|:---:|:---:|:---:|
-| ![发现页](docs/screenshots/04-find.png) | ![播放器](docs/screenshots/05-player.png) | ![语音搜索](docs/screenshots/07-voice-search.png) |
-
-**更多界面**（每日推荐、思考模式、TTS 播报、我的等）请克隆仓库后查看 [`docs/screenshots/`](docs/screenshots/) 目录，或下载 Release 附件观看完整演示。
 
 ---
 
@@ -122,31 +107,6 @@ export class ApiConfig {
 
 ---
 
-## 截图说明
 
-请将以下本地截图复制到 `docs/screenshots/` 并重命名（便于 GitHub 展示）：
+欢迎 Star & Fork！如果对 Spring AI、多模态应用或 Vue 3 全栈开发感兴趣，欢迎 Issues 交流～
 
-| 原文件名 | 建议保存为 |
-|----------|------------|
-| 屏幕截图 2026-03-01 150617 | `01-splash.png` |
-| 屏幕截图 2026-03-01 150625 | `02-recommend-home.png` |
-| 屏幕截图 2026-03-01 150638 | `03-daily-recommend.png` |
-| 屏幕截图 2026-03-01 151351 | `04-find.png` |
-| 屏幕截图 2026-03-01 151556 | `05-player.png` |
-| 屏幕截图 2026-03-01 150703 | `06-ai-chat.png` |
-| 屏幕截图 2026-03-01 151615 | `07-voice-search.png` |
-| 屏幕截图 2026-03-01 151640 | `08-ai-thinking.png` |
-| 屏幕截图 2026-03-01 151646 | `09-tts.png` |
-| 屏幕截图 2026-03-01 151833 | `10-mine.png` |
-
----
-
-## License
-
-本项目仅供学习交流使用。音乐资源与品牌元素版权归原作者所有，请勿用于商业用途。
-
----
-
-## Star & Fork
-
-如果对 **HarmonyOS 开发**、**DeepSeek 集成** 或 **音乐 + AI 场景** 感兴趣，欢迎 Star ⭐ 与 Issues 交流～
