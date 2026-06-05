@@ -1,8 +1,8 @@
 ## 部分截图展示 
-<img width="480"  alt="屏幕截图 2026-06-05 105632" src="https://github.com/user-attachments/assets/953d094d-c7bb-413e-b935-52250752d21b" />
-<img width="480"  alt="屏幕截图 2026-06-05 105715" src="https://github.com/user-attachments/assets/c7ca85a9-aa71-44ba-af79-709eed4a8196" />
-<img width="480"  alt="屏幕截图 2026-06-05 105653" src="https://github.com/user-attachments/assets/631c0407-9b60-47d1-bb73-12d8f0799592" />
-<img width="480"  alt="屏幕截图 2026-06-05 105638" src="https://github.com/user-attachments/assets/587e22ff-6319-4338-bfcd-b0e319eb6999" />
+<img width="400"  alt="屏幕截图 2026-06-05 105632" src="https://github.com/user-attachments/assets/953d094d-c7bb-413e-b935-52250752d21b" />
+<img width="400"  alt="屏幕截图 2026-06-05 105715" src="https://github.com/user-attachments/assets/c7ca85a9-aa71-44ba-af79-709eed4a8196" />
+<img width="400"  alt="屏幕截图 2026-06-05 105653" src="https://github.com/user-attachments/assets/631c0407-9b60-47d1-bb73-12d8f0799592" />
+<img width="400"  alt="屏幕截图 2026-06-05 105638" src="https://github.com/user-attachments/assets/587e22ff-6319-4338-bfcd-b0e319eb6999" />
 
 >更多内容请您下载观看
 
