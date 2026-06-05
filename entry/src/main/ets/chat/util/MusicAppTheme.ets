@@ -1,0 +1,20 @@
+/** 云音乐 App 深色主题配色 */
+export class MusicAppTheme {
+  static readonly BG_PRIMARY: string = '#131215'
+  static readonly BG_SECONDARY: string = '#1F2022'
+  static readonly BG_CARD: string = '#3B3F42'
+  static readonly ACCENT: string = '#E85A88'
+  static readonly ACCENT_SOFT: string = '#63AAAA'
+  static readonly TEXT_PRIMARY: string = '#F6F5F5'
+  static readonly TEXT_SECONDARY: string = '#C8C8C8'
+  static readonly TEXT_HINT: string = '#817D83'
+  static readonly INPUT_BG: string = '#1F2022'
+  static readonly INPUT_BAR: string = '#1A1B1D'
+  static readonly OVERLAY: string = '#99000000'
+  static readonly USER_BUBBLE: string = '#E85A88'
+  static readonly ASSISTANT_BUBBLE: string = '#1F2022'
+  static readonly REASONING_BG: string = '#2A2D30'
+  static readonly BORDER: string = '#3B3F42'
+  static readonly ERROR: string = '#FF6B6B'
+  static readonly STOP: string = '#B84A62'
+}

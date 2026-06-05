@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "internet_reason",
+      "value": "与 AI 对话、语音朗读需要访问网络"
+    },
+    {
+      "name": "mic_permission_reason",
+      "value": "用于按住输入框说话时的语音识别"
+    }
+  ]
+}
